@@ -1,0 +1,7 @@
+{
+  "versionCode": 10,
+  "versionName": "2.8",
+  "url": "https://raw.githubusercontent.com/luoye888-svg/luoye-check/main/luoye-2.8.apk",
+  "note": "首次接入远程更新",
+  "force": true
+}
