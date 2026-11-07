@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "4.6",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.6.apk",
-  "note": "4.6：修复分区页读取失败（改后台线程）；su 调用限流，root 状态缓存",
+  "versionCode": 29,
+  "versionName": "4.7",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.7.apk",
+  "note": "4.7：刷新率六档可选并回读校验；底栏移除「更新」入口",
   "force": true
 }
