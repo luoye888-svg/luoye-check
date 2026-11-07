@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "4.3",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.3.apk",
-  "note": "4.3：修复授权 root 后闪退/卡死（设备刷新改后台线程 + su 节流）",
+  "versionCode": 26,
+  "versionName": "4.4",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.4.apk",
+  "note": "4.4：修复检测中断（证书 SHA 取子串越界）；异常时保留已有结果并显示位置",
   "force": true
 }
