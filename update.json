@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "3.9",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-3.9.apk",
-  "note": "3.9：更新源改国内反代优先+自动切换，修复拉不到更新清单；含红色异常横幅、镜像备份",
+  "versionCode": 22,
+  "versionName": "4.0",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.0.apk",
+  "note": "4.0：修复 CPU/GPU 负载与充电功率读不出（多节点探测 + root 兜底）；更新源国内反代优先",
   "force": true
 }
