@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "6.2",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-6.2.apk",
-  "note": "6.2：全部页面换成液态玻璃（模糊壁纸底 + 透明玻璃卡片）；检查更新换成杂鱼♡粉调卡片；液态玻璃底栏/状态栏、自定义背景、六语言、监控/情景/应用管理/网盘/终端/密钥认证",
+  "versionCode": 50,
+  "versionName": "6.3",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-6.3.apk",
+  "note": "6.3：新增「加入群聊」页（微信「落叶的小窝」，二维码运行时从仓库拉取）；README 三语介绍+配图；全部版本补齐三语更新日志",
   "force": true
 }
