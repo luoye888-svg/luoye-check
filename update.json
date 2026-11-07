@@ -2,6 +2,6 @@
   "versionCode": 50,
   "versionName": "6.3",
   "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-6.3.apk",
-  "note": "6.3：新增「加入群聊」页（微信「落叶的小窝」，二维码运行时从仓库拉取）；README 三语介绍+配图；全部版本补齐三语更新日志",
+  "note": "6.3：新增「加入群聊」页（微信「落叶的小窝」，二维码运行时从仓库拉取）；README 三语介绍+配图；全部 Release 补齐三语更新日志；源码包补 Gradle 工程",
   "force": true
 }
