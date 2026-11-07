@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "5.1",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-5.1.apk",
-  "note": "5.1：调度页补齐调校功能——性能预设、CPU 调度器/核心开关、GPU 频率、温控热区、IO 调度、ZRAM/swap、充电控制、高级重启、开机自动生效、安装界面自动点击",
+  "versionCode": 34,
+  "versionName": "5.2",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-5.2.apk",
+  "note": "5.2：调度页重做（CPU/GPU/显示/内存存储/电源温控/系统工具 分组折叠）；新增「密钥认证」页，直接看证书链与 Bootloader 真实状态；底栏去掉治理",
   "force": true
 }
