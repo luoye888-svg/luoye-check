@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "4.1",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.1.apk",
-  "note": "4.1：按春秋判据重构检测，新增 root 视角证据通道与 12 项判据，修正「未知/无 root」误报",
+  "versionCode": 24,
+  "versionName": "4.2",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.2.apk",
+  "note": "4.2：修复检测闪退（异常改为界面提示）；su 调用压缩、属性读取提速",
   "force": true
 }
