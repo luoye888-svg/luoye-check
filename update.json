@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.9",
-  "url": "https://raw.githubusercontent.com/luoye888-svg/luoye-check/main/落叶检测_2.9.apk",
-  "note": "更新：KSU同款液态玻璃UI，界面重构，优化动画",
+  "versionCode": 16,
+  "versionName": "3.4",
+  "url": "https://github.com/luoye888-svg/luoye-check/releases/download/v3.4/luoye-3.4.apk",
+  "note": "3.4：文档风界面 + 液态玻璃底栏 + KSU 模块刷入，81 项检测",
   "force": true
 }
