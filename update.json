@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "3.6",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-3.6.apk",
-  "note": "3.6：修复国内网络拉不到更新源的问题，更新改用多镜像自动切换 + CDN 分发",
+  "versionCode": 19,
+  "versionName": "3.7",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-3.7.apk",
+  "note": "3.7：修复国内网络拉不到更新清单，改用国内反代多源自动切换；更新包走 CDN 分发",
   "force": true
 }
