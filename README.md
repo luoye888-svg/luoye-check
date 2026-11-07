@@ -53,6 +53,12 @@
 
 App 内置强制更新：启动时读 `update.json`，有新版本会弹窗，强制更新锁返回键。
 
+### 加入群聊
+
+<img src="group-qr.png" width="300" alt="微信群 落叶的小窝" />
+
+微信群 **「落叶的小窝」**，版本更新、功能许愿、报 bug 都在这儿。二维码 7 天过期，过期后看仓库根目录的 [group-qr.png](https://github.com/luoye888-svg/luoye-check/blob/main/group-qr.png)，我会换新的。
+
 ### 隐私
 
 - 不收集账号，不上报任何设备信息，没有埋点
@@ -92,6 +98,12 @@ App 内置强制更新：启动时读 `update.json`，有新版本会弹窗，�
 
 Download `luoye-6.2.apk` from [Releases](https://github.com/luoye888-svg/luoye-check/releases/latest), install over the old version (signature is stable). Root is optional — only tuning, terminal and the overlay need it.
 
+### Join the group
+
+<img src="group-qr.png" width="300" alt="WeChat group" />
+
+WeChat group **"落叶的小窝"** — release news, feature requests and bug reports. The QR code expires every 7 days; when it does, grab the latest from [group-qr.png](https://github.com/luoye888-svg/luoye-check/blob/main/group-qr.png).
+
 ### Privacy
 
 No account, no telemetry, no device reporting. Detection results stay on-device. AI is opt-in and goes to the endpoint you configure.
@@ -127,6 +139,12 @@ Changing schedulers, resolution, DPI or creating swap can destabilize your devic
 ### インストール
 
 [Releases](https://github.com/luoye888-svg/luoye-check/releases/latest) から `luoye-6.2.apk` を取得して上書きインストール（署名は固定）。Root は任意で、チューニング・ターミナル・オーバーレイのみ必要です。
+
+### グループに参加
+
+<img src="group-qr.png" width="300" alt="WeChat グループ" />
+
+WeChat グループ **「落叶的小窝」**。更新情報・要望・バグ報告はこちらへ。QR コードは 7 日で失効します。失効後は [group-qr.png](https://github.com/luoye888-svg/luoye-check/blob/main/group-qr.png) の最新版をご利用ください。
 
 ### プライバシー
 
