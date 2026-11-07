@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "4.4",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.4.apk",
-  "note": "4.4：修复检测中断（证书 SHA 取子串越界）；异常时保留已有结果并显示位置",
+  "versionCode": 27,
+  "versionName": "4.5",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.5.apk",
+  "note": "4.5：检测分段隔离，单条判据出错不再中断整次检测",
   "force": true
 }
