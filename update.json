@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "4.5",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.5.apk",
-  "note": "4.5：检测分段隔离，单条判据出错不再中断整次检测",
+  "versionCode": 28,
+  "versionName": "4.6",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.6.apk",
+  "note": "4.6：修复分区页读取失败（改后台线程）；su 调用限流，root 状态缓存",
   "force": true
 }
