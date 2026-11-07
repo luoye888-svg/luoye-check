@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "5.0",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-5.0.apk",
-  "note": "5.0：AI 解读支持自定义中转地址 + 客户端令牌，key 可以完全不进包（更安全，也不怕被扒）",
+  "versionCode": 33,
+  "versionName": "5.1",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-5.1.apk",
+  "note": "5.1：调度页补齐调校功能——性能预设、CPU 调度器/核心开关、GPU 频率、温控热区、IO 调度、ZRAM/swap、充电控制、高级重启、开机自动生效、安装界面自动点击",
   "force": true
 }
