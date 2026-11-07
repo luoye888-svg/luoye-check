@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "4.2",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.2.apk",
-  "note": "4.2：修复检测闪退（异常改为界面提示）；su 调用压缩、属性读取提速",
+  "versionCode": 25,
+  "versionName": "4.3",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.3.apk",
+  "note": "4.3：修复授权 root 后闪退/卡死（设备刷新改后台线程 + su 节流）",
   "force": true
 }
