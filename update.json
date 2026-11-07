@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "6.1",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-6.1.apk",
-  "note": "6.1：液态玻璃界面（底栏透镜折射/镜面高光/边缘色散）+ 外观设置（自定义背景图）+ 多语言（简中/繁中/English/日本語/Tiếng Việt/Português）+ 实时监控·情景模式·应用管理·网盘解析·终端·密钥认证",
+  "versionCode": 48,
+  "versionName": "6.1.1",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-6.1.1.apk",
+  "note": "6.1.1：修复切换语言（English/日本語/Tiếng Việt/Português/繁體中文）不生效；液态玻璃 + 自定义背景图 + 多语言 + 监控/情景/应用管理/网盘解析/终端/密钥认证",
   "force": true
 }
