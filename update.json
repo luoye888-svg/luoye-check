@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "3.5",
-  "url": "https://github.com/luoye888-svg/luoye-check/releases/download/v3.5/luoye-3.5.apk",
-  "note": "3.5：异常时顶部显示“当前环境不可信”警示横幅；新增镜像备份（按分区提取 + 全字库整盘备份）",
+  "versionCode": 18,
+  "versionName": "3.6",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-3.6.apk",
+  "note": "3.6：修复国内网络拉不到更新源的问题，更新改用多镜像自动切换 + CDN 分发",
   "force": true
 }
