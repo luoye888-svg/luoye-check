@@ -59,6 +59,14 @@ App 内置强制更新：启动时读 `update.json`，有新版本会弹窗，�
 
 微信群 **「落叶的小窝」**，版本更新、功能许愿、报 bug 都在这儿。二维码 7 天过期，过期后看仓库根目录的 [group-qr.png](https://github.com/luoye888-svg/luoye-check/blob/main/group-qr.png)，我会换新的。
 
+
+### 源码
+
+源码包：[luoye-check-source-6.3.zip](https://github.com/luoye888-svg/luoye-check/raw/main/luoye-check-source-6.3.zip)
+
+用 Android Studio 打开**含 `settings.gradle` 的那层目录**即可（包内自带 Gradle wrapper、AGP 8.6.1）。
+不包含签名密钥 `luoye.jks`，自己签的包需要把 `Detect.EXPECTED_CERT_SHA256` 改成自己的证书指纹。
+
 ### 隐私
 
 - 不收集账号，不上报任何设备信息，没有埋点
@@ -104,6 +112,13 @@ Download `luoye-6.2.apk` from [Releases](https://github.com/luoye888-svg/luoye-c
 
 WeChat group **"落叶的小窝"** — release news, feature requests and bug reports. The QR code expires every 7 days; when it does, grab the latest from [group-qr.png](https://github.com/luoye888-svg/luoye-check/blob/main/group-qr.png).
 
+
+### Source
+
+Source package: [luoye-check-source-6.3.zip](https://github.com/luoye888-svg/luoye-check/raw/main/luoye-check-source-6.3.zip)
+
+Open the folder that contains `settings.gradle` in Android Studio — the Gradle wrapper and AGP 8.6.1 are included. The signing key `luoye.jks` is **not** shipped; if you sign with your own key, update `Detect.EXPECTED_CERT_SHA256` accordingly.
+
 ### Privacy
 
 No account, no telemetry, no device reporting. Detection results stay on-device. AI is opt-in and goes to the endpoint you configure.
@@ -145,6 +160,13 @@ Changing schedulers, resolution, DPI or creating swap can destabilize your devic
 <img src="group-qr.png" width="300" alt="WeChat グループ" />
 
 WeChat グループ **「落叶的小窝」**。更新情報・要望・バグ報告はこちらへ。QR コードは 7 日で失効します。失効後は [group-qr.png](https://github.com/luoye888-svg/luoye-check/blob/main/group-qr.png) の最新版をご利用ください。
+
+
+### ソース
+
+ソースパッケージ：[luoye-check-source-6.3.zip](https://github.com/luoye888-svg/luoye-check/raw/main/luoye-check-source-6.3.zip)
+
+`settings.gradle` がある階層を Android Studio で開いてください（Gradle wrapper と AGP 8.6.1 同梱）。署名鍵 `luoye.jks` は含みません。自前の鍵で署名する場合は `Detect.EXPECTED_CERT_SHA256` を自分の証明書指纹に変更してください。
 
 ### プライバシー
 
