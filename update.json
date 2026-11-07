@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "3.4",
-  "url": "https://github.com/luoye888-svg/luoye-check/releases/download/v3.4/luoye-3.4.apk",
-  "note": "3.4：文档风界面 + 液态玻璃底栏 + KSU 模块刷入，81 项检测",
+  "versionCode": 17,
+  "versionName": "3.5",
+  "url": "https://github.com/luoye888-svg/luoye-check/releases/download/v3.5/luoye-3.5.apk",
+  "note": "3.5：异常时顶部显示“当前环境不可信”警示横幅；新增镜像备份（按分区提取 + 全字库整盘备份）",
   "force": true
 }
