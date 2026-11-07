@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "4.8",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.8.apk",
-  "note": "4.8：BL 锁改 TEE 硬件判定（RootOfTrust）并与属性交叉验证；新增内核驱动/版本一致性检测",
+  "versionCode": 31,
+  "versionName": "4.9",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.9.apk",
+  "note": "4.9：新增「AI 解读」，检测完可直接让 AI 分析报告并给处理顺序（内置通道，开箱可用）",
   "force": true
 }
