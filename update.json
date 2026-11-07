@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "4.0",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.0.apk",
-  "note": "4.0：更新源国内多镜像自动切换，下载走 CDN",
+  "versionCode": 23,
+  "versionName": "4.1",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-4.1.apk",
+  "note": "4.1：按春秋判据重构检测，新增 root 视角证据通道与 12 项判据，修正「未知/无 root」误报",
   "force": true
 }
