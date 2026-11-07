@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "5.2",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-5.2.apk",
-  "note": "5.2：调度页重做（CPU/GPU/显示/内存存储/电源温控/系统工具 分组折叠）；新增「密钥认证」页，直接看证书链与 Bootloader 真实状态；底栏去掉治理",
+  "versionCode": 47,
+  "versionName": "6.1",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-6.1.apk",
+  "note": "6.1：液态玻璃界面（底栏透镜折射/镜面高光/边缘色散）+ 外观设置（自定义背景图）+ 多语言（简中/繁中/English/日本語/Tiếng Việt/Português）+ 实时监控·情景模式·应用管理·网盘解析·终端·密钥认证",
   "force": true
 }
