@@ -1,7 +1,7 @@
 {
   "versionCode": 62,
   "versionName": "7.6",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-7.6.apk",
-  "note": "7.6：首页分类整理 · 打开即强制更新",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-8.0.apk",
+  "note": "8.0：首页整页 Compose 单树渲染 · 底栏点哪跳哪",
   "force": true
 }
