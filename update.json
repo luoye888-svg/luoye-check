@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "7.5",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-7.5.apk",
-  "note": "7.5：玻璃层改为静止重算，滚动不再卡",
+  "versionCode": 62,
+  "versionName": "7.6",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-7.6.apk",
+  "note": "7.6：首页分类整理 · 打开即强制更新",
   "force": true
 }
