@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "6.4.1",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-6.4.1.apk",
-  "note": "6.4.1：更新了液态玻璃",
+  "versionCode": 58,
+  "versionName": "7.2",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-7.2.apk",
+  "note": "7.2：全界面液态玻璃 · 底栏换成 backdrop 库",
   "force": true
 }
