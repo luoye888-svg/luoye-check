@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "7.3",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-7.3.apk",
-  "note": "7.3：修复二级页面闪退，优化玻璃层流畅度",
+  "versionCode": 60,
+  "versionName": "7.4",
+  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-7.4.apk",
+  "note": "7.4：卡片本体液态玻璃折射，刷新更顺",
   "force": true
 }
