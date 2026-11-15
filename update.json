@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "8.5",
-  "url": "https://cdn.jsdelivr.net/gh/luoye888-svg/luoye-check@main/luoye-8.5.apk",
-  "note": "8.5：概览卡 + 2 列功能网格 + 玻璃分级降级",
+  "versionCode": 88,
+  "versionName": "10.8",
+  "url": "https://github.com/luoye888-svg/luoye-check/raw/main/luoye-10.8.apk",
+  "note": "10.8：修复工具释放 EACCES（root 拷贝）、内置 KSU 官方 boot-patch 脚本、AVB 支持 RSA-2048/4096 切换、教程改读内置三语文本、9008 引导包改 7z 压缩（体积 121MB→50MB）",
   "force": true
 }
